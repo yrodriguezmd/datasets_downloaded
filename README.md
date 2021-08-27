@@ -1,5 +1,6 @@
 ### Datasets_downloaded
-open source datasets downloaded from various sites
+- open source datasets downloaded from various sites
+- limited to 25MB
 
 
 #### 1.  American Sign Language
